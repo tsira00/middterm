@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- მხატვრის სახელი -->
+        <TextView
+            android:id="@+id/textArtistName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amedeo Modigliani"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- ნაწარმოებების სია -->
+        <TextView
+            android:id="@+id/textArtworks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Nu couché — 1917\n
+Nude Sitting on a Divan — 1917\n
+Nude on a Blue Cushion — 1917\n
+Jeanne Hébuterne with Bare Shoulders — 1919\n
+Portrait of Pablo Picasso — 1915\n
+Tête (ქანდაკება) — 1910–1912\n
+Girl with a Straw Hat — 1918\n
+Woman with a Fan — 1919\n
+The Little Peasant — 1918\n
+Seated Nude — 1917"
+            android:textSize="16sp"
+            android:lineSpacingExtra="4dp" />
+
+    </LinearLayout>
+
+</ScrollView>
