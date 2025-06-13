@@ -9,70 +9,70 @@
         "name": "Amedeo Modigliani",
         "period": "1884 - 1920",
         "description": "Nu couché — 1917\nNude Sitting on a Divan — 1917\nNude on a Blue Cushion — 1917\nJeanne Hébuterne with Bare Shoulders — 1919\nPortrait of Pablo Picasso — 1915\nTête (ქანდაკება) — 1910–1912\nGirl with a Straw Hat — 1918\nWoman with a Fan — 1919\nThe Little Peasant — 1918\nSeated Nude — 1917",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Amedeo_Modigliani_1916-17_Self_Portrait.jpg"
+        "imageUrl": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/modigliani-jeane-hebuterne_1_WQU2xsC.width-600.jpg"
       },
       {
         "id": 2,
         "name": "Vincent van Gogh",
         "period": "1853 - 1890",
         "description": "Starry Night — 1889\nSunflowers — 1888\nThe Potato Eaters — 1885\nIrises — 1889\nCafe Terrace at Night — 1888\nSelf-Portrait with Bandaged Ear — 1889\nWheatfield with Crows — 1890\nThe Night Café — 1888\nAlmond Blossoms — 1890\nBedroom in Arles — 1888",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Van_Gogh_-_Self-Portrait_with_Straw_Hat_1887.jpeg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Self-Portrait_%28Van_Gogh_September_1889%29.jpg"
       },
       {
         "id": 3,
         "name": "Claude Monet",
         "period": "1840 - 1926",
         "description": "Impression, Sunrise — 1872\nWater Lilies (Nymphéas) — 1897–1926\nWoman with a Parasol — 1875\nRouen Cathedral series — 1892–1894\nHouses of Parliament series — 1900–1905\nThe Japanese Bridge — 1899\nHaystacks series — 1890–1891\nThe Artist’s Garden at Giverny — 1900\nPoplars series — 1891\nGarden at Sainte-Adresse — 1867",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Claude_Monet_1899_Nympheas_MG_2940.jpg"
+        "imageUrl": https://cdn.britannica.com/57/250457-050-342611AD/Claude-Monet-French-Impressionist-painter.jpg"
       },
       {
         "id": 4,
         "name": "Pablo Picasso",
         "period": "1881 - 1973",
         "description": "Les Demoiselles d'Avignon — 1907\nGuernica — 1937\nThe Weeping Woman — 1937\nGirl before a Mirror — 1932\nThe Old Guitarist — 1903–1904\nBlue Nude — 1902\nThree Musicians — 1921\nLa Vie — 1903\nSelf-Portrait — 1907\nHarlequin — 1917",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Pablo_picasso_1.jpg"
+        "imageUrl": https://preview.redd.it/jby7ql9d6nh01.jpg?width=640&crop=smart&auto=webp&s=cf1322be9ddf7c30fcebd0f89fc23a27061b1660"
       },
       {
         "id": 5,
         "name": "Leonardo da Vinci",
         "period": "1452 - 1519",
         "description": "Mona Lisa — 1503–1506\nThe Last Supper — 1495–1498\nVitruvian Man — 1490\nLady with an Ermine — 1489–1490\nAnnunciation — 1472–1475\nGinevra de' Benci — 1474–1478\nSt. John the Baptist — 1513–1516\nThe Baptism of Christ (თანა) — 1472–1475\nThe Adoration of the Magi — 1481\nMadonna of the Rocks — 1483–1486",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Leonardo_self.jpg"
+        "imageUrl": "https://www.leonardodavinci.net/assets/img/leonardo-da-vinci.jpg"
       },
       {
         "id": 6,
         "name": "Salvador Dalí",
         "period": "1904 - 1989",
         "description": "The Persistence of Memory — 1931\nSwans Reflecting Elephants — 1937\nThe Elephants — 1948\nMetamorphosis of Narcissus — 1937\nThe Temptation of Saint Anthony — 1946\nThe Disintegration of the Persistence of Memory — 1954\nLobster Telephone — 1936\nGalatea of the Spheres — 1952\nChrist of Saint John of the Cross — 1951\nDream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening — 1944",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Salvador_Dali_1939.jpg"
+        "imageUrl": "https://www.galeries-bartoux.com/wp-content/uploads/2016/06/DALI-2.jpg"
       },
       {
         "id": 7,
         "name": "Michelangelo",
         "period": "1475 - 1564",
         "description": "David — 1501–1504\nPietà — 1498–1499\nThe Creation of Adam (ფრესკა) — 1508–1512\nMoses — 1513–1515\nThe Last Judgment (ფრესკა) — 1536–1541\nDoni Tondo — 1506–1508\nThe Torment of Saint Anthony — 1487–1488\nMadonna of Bruges — 1501–1504\nThe Battle of the Centaurs — 1492\nThe Deposition (Florence Pietà) — 1547–1555",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Michelangelo_Buonarroti.jpg"
+        "imageUrl": https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/960px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
       },
       {
         "id": 8,
         "name": "Jan Vermeer",
         "period": "1632 - 1675",
         "description": "Girl with a Pearl Earring — 1665\nThe Milkmaid — 1657–1658\nView of Delft — 1660–1661\nThe Art of Painting — 1666–1668\nWoman Holding a Balance — 1662–1665\nThe Lacemaker — 1669–1670\nWoman with a Water Jug — 1660\nThe Music Lesson — 1662–1665\nThe Astronomer — 1668\nThe Geographer — 1669",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jan_Vermeer_van_Delft_1632-1675.jpg"
+        "imageUrl": "https://i0.wp.com/static.wixstatic.com/media/6990e8_9ef9d61f23494c569e1d998cb4798320~mv2.jpg/v1/fill/w_378,h_462,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6990e8_9ef9d61f23494c569e1d998cb4798320~mv2.jpg?w=640&ssl=1"
       },
       {
         "id": 9,
         "name": "Frida Kahlo",
         "period": "1907 - 1954",
         "description": "Mexican painter known for self-portraits and works inspired by nature and artifacts of Mexico.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Frida_Kahlo_%28self_portrait%29.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg"
       },
       {
         "id": 10,
         "name": "Georges Seurat",
         "period": "1859 - 1891",
         "description": "French post-Impressionist painter known for pointillism and works like 'A Sunday Afternoon on the Island of La Grande Jatte'.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Georges_Seurat_1888.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Georges_Seurat_1888.jpg/960px-Georges_Seurat_1888.jpg"
       }
     ]
   }
