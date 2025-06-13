@@ -23,14 +23,14 @@
         "name": "Claude Monet",
         "period": "1840 - 1926",
         "description": "Impression, Sunrise — 1872\nWater Lilies (Nymphéas) — 1897–1926\nWoman with a Parasol — 1875\nRouen Cathedral series — 1892–1894\nHouses of Parliament series — 1900–1905\nThe Japanese Bridge — 1899\nHaystacks series — 1890–1891\nThe Artist’s Garden at Giverny — 1900\nPoplars series — 1891\nGarden at Sainte-Adresse — 1867",
-        "imageUrl": https://cdn.britannica.com/57/250457-050-342611AD/Claude-Monet-French-Impressionist-painter.jpg"
+        "imageUrl": "https://cdn.britannica.com/57/250457-050-342611AD/Claude-Monet-French-Impressionist-painter.jpg"
       },
       {
         "id": 4,
         "name": "Pablo Picasso",
         "period": "1881 - 1973",
         "description": "Les Demoiselles d'Avignon — 1907\nGuernica — 1937\nThe Weeping Woman — 1937\nGirl before a Mirror — 1932\nThe Old Guitarist — 1903–1904\nBlue Nude — 1902\nThree Musicians — 1921\nLa Vie — 1903\nSelf-Portrait — 1907\nHarlequin — 1917",
-        "imageUrl": https://preview.redd.it/jby7ql9d6nh01.jpg?width=640&crop=smart&auto=webp&s=cf1322be9ddf7c30fcebd0f89fc23a27061b1660"
+        "imageUrl": "https://preview.redd.it/jby7ql9d6nh01.jpg?width=640&crop=smart&auto=webp&s=cf1322be9ddf7c30fcebd0f89fc23a27061b1660"
       },
       {
         "id": 5,
