@@ -64,14 +64,16 @@
       "id": 9,
       "name": "Frida Kahlo",
       "period": "1907 - 1954",
-      "description": "Mexican painter known for self-portraits and works inspired by nature and artifacts of Mexico.",
+      "description": "The Two Fridas (Las dos Fridas) — 1939\nSelf-Portrait with Thorn Necklace and Hummingbird — 1940\nThe Broken Column (La columna rota) — 1944\nSelf-Portrait with Cropped Hair — 1940\nHenry Ford Hospital (The Flying Bed) — 1932\nSelf-Portrait with Monkey — 1938\nWhat the Water Gave Me — 1938\nThe Wounded Deer (El venado herido) — 1946\nDiego on my mind (Self-Portrait as Tehuana) — 1943\nSelf-Portrait with Necklace of Thorns and Hummingbird — 1940
+",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg"
     },
     {
       "id": 10,
       "name": "Georges Seurat",
       "period": "1859 - 1891",
-      "description": "French post-Impressionist painter known for pointillism and works like 'A Sunday Afternoon on the Island of La Grande Jatte'.",
+      "description": "A Sunday Afternoon on the Island of La Grande Jatte — 1884–1886\nBathers at Asnières — 1883–1884\nThe Circus — 1890–1891\nLe Chahut — 1889–1890\nThe Models (Les Poseuses) — 1886–1888\nThe Seine at Courbevoie — 1885–1886\nYoung Woman Powdering Herself — 1889–1890\nBridge at Courbevoie — 1886\nParade de Cirque — 1887–1888\nThe Channel at Gravelines, Evening — 1890
+",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Georges_Seurat_1888.jpg/960px-Georges_Seurat_1888.jpg"
     }
   ]
